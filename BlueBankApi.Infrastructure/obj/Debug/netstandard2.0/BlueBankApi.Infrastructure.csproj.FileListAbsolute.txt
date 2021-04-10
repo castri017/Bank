@@ -1,0 +1,12 @@
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\obj\Debug\netstandard2.0\BlueBankApi.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\obj\Debug\netstandard2.0\BlueBankApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\obj\Debug\netstandard2.0\BlueBankApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\obj\Debug\netstandard2.0\BlueBankApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\bin\Debug\netstandard2.0\BlueBankApi.Infrastructure.deps.json
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\bin\Debug\netstandard2.0\BlueBankApi.Infrastructure.dll
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\bin\Debug\netstandard2.0\BlueBankApi.Infrastructure.pdb
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\bin\Debug\netstandard2.0\BlueBankApi.Core.dll
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\bin\Debug\netstandard2.0\BlueBankApi.Core.pdb
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\obj\Debug\netstandard2.0\BlueBankApi.Infrastructure.csproj.CopyComplete
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\obj\Debug\netstandard2.0\BlueBankApi.Infrastructure.dll
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Infrastructure\obj\Debug\netstandard2.0\BlueBankApi.Infrastructure.pdb

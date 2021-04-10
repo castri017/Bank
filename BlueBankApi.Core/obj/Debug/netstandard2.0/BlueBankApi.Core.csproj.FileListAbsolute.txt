@@ -1,0 +1,9 @@
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Core\bin\Debug\netstandard2.0\BlueBankApi.Core.deps.json
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Core\bin\Debug\netstandard2.0\BlueBankApi.Core.dll
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Core\bin\Debug\netstandard2.0\BlueBankApi.Core.pdb
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Core\obj\Debug\netstandard2.0\BlueBankApi.Core.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Core\obj\Debug\netstandard2.0\BlueBankApi.Core.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Core\obj\Debug\netstandard2.0\BlueBankApi.Core.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Core\obj\Debug\netstandard2.0\BlueBankApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Core\obj\Debug\netstandard2.0\BlueBankApi.Core.dll
+C:\Users\Alexander\source\repos\BlueBankAPI\BlueBankApi.Core\obj\Debug\netstandard2.0\BlueBankApi.Core.pdb
